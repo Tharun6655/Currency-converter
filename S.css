@@ -1,0 +1,28 @@
+body{
+    color:#0C0F0A;
+    background-color:yellow;
+}
+h1{
+    color:brown;
+}
+#id1{
+   color:black;
+}
+#id2{
+    color:black;
+}
+#button{
+    color:black;
+    background-color:#6CD4FF;
+}
+#button:hover{
+    transition: 0.5em;
+}
+#Button{
+    color:black;
+    background-color:#6CD4FF;
+}
+#Button:hover{
+    transition: 0.5em;
+    width: 90px;
+}
